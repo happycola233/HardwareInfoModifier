@@ -1,3 +1,5 @@
+<p align="center">🇨🇳 中文简体  |  <a title="English" href="README_EN.md">🇬🇧 English</a></p>
+
 # Hardware Info Modifier
 
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
